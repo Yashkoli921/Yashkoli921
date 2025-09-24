@@ -24,7 +24,7 @@
 ---
 
 ## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-koli-4b39b436b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashkoli921)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/dev_yash_koli?igsh=aTk3MWQ4cGZicHB2)  
 
 ---
